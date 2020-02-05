@@ -1,3 +1,4 @@
 # nginx
 
-Nodejs - app_server 
+Nginx loadbalancing 
+
